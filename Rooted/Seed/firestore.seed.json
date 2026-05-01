@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "id": "demo-user",
+      "fullName": "Awa Konan",
+      "email": "awa@example.com",
+      "homeCountry": "Cote d'Ivoire",
+      "currentCity": "Boston",
+      "languages": ["French", "English"],
+      "role": "Student",
+      "interests": ["Make friends", "Women-only spaces", "Networking"],
+      "onboardingCompleted": true,
+      "notificationsEnabled": true,
+      "fcmToken": "replace-with-real-token"
+    },
+    {
+      "id": "aminata-user",
+      "fullName": "Aminata Diallo",
+      "email": "aminata@example.com",
+      "homeCountry": "Senegal",
+      "currentCity": "Boston",
+      "languages": ["French", "Wolof", "English"],
+      "role": "Student",
+      "interests": ["Culture", "Food", "Events"],
+      "onboardingCompleted": true,
+      "notificationsEnabled": true
+    }
+  ],
+  "communities": [
+    {
+      "id": "community-boston-francophone",
+      "name": "Francophone Women in Boston",
+      "city": "Boston",
+      "members": 214,
+      "tags": ["French", "Women", "Networking"]
+    },
+    {
+      "id": "community-west-african-students",
+      "name": "West African Students in Boston",
+      "city": "Boston",
+      "members": 621,
+      "tags": ["Students", "Culture", "Events"]
+    }
+  ],
+  "events": [
+    {
+      "id": "event-women-mixer",
+      "title": "International Women Mixer",
+      "host": "Rooted Collective",
+      "startAt": "2026-05-02T17:00:00Z",
+      "place": "Downtown Boston",
+      "attendees": 54,
+      "tags": ["Women", "Networking", "Safe Space"]
+    },
+    {
+      "id": "event-diaspora-dinner",
+      "title": "Diaspora Dinner Night",
+      "host": "West African Student Union",
+      "startAt": "2026-05-03T19:30:00Z",
+      "place": "Cambridge",
+      "attendees": 96,
+      "tags": ["Culture", "Food", "RSVP Open"]
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-aminata",
+      "name": "Aminata",
+      "participantIDs": ["demo-user", "aminata-user"],
+      "preview": "I added you to the dinner event chat.",
+      "updatedAt": "2026-04-24T18:20:00Z",
+      "unreadCount": 2
+    },
+    {
+      "id": "thread-rooted-women",
+      "name": "Rooted Women Boston",
+      "participantIDs": ["demo-user", "aminata-user"],
+      "preview": "The RSVP list just opened.",
+      "updatedAt": "2026-04-24T17:15:00Z",
+      "unreadCount": 0
+    }
+  ],
+  "messages": {
+    "thread-aminata": [
+      {
+        "id": "message-1",
+        "senderID": "aminata-user",
+        "senderName": "Aminata Diallo",
+        "text": "Hey, I added you to the event chat.",
+        "sentAt": "2026-04-24T17:40:00Z"
+      },
+      {
+        "id": "message-2",
+        "senderID": "demo-user",
+        "senderName": "Awa Konan",
+        "text": "Thank you, I just saw it. It looks really nice.",
+        "sentAt": "2026-04-24T17:48:00Z"
+      }
+    ],
+    "thread-rooted-women": [
+      {
+        "id": "message-3",
+        "senderID": "aminata-user",
+        "senderName": "Aminata Diallo",
+        "text": "The women-only mixer just opened new spots.",
+        "sentAt": "2026-04-24T18:05:00Z"
+      }
+    ]
+  }
+}
