@@ -5,4 +5,5 @@ The app allows users to create profiles, add details such as their home country,
 In the long term, I want Rooted to grow beyond a class project and eventually launch it properly. My vision is to collaborate with universities and their cultural societies across the world so that the app can become a central space for international students and other people abroad who want to connect with others from their culture. I also want communities and societies to be able to promote their events directly through the app, and in the future eventually sell tickets there as well, with the app taking a small commission. Those are features I would want to build once the app is more polished, properly marketed, and ready for wider use.
 
 LinkedIn: https://www.linkedin.com/in/louiseverbeke
-YouTube: 
+
+YouTube demo: https://youtu.be/JHDrq9sblAY
