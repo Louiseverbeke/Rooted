@@ -1,0 +1,8 @@
+Rooted is a cultural community app I created as the final project for my Intro to iOS Programming class while I am studying abroad at Boston College from King’s College London. The idea came from my own experience of living in another country and realizing how difficult it can be to find people who share your language, culture, and sense of home while you are abroad. Because of that, I wanted to build an app that helps people abroad feel less isolated and more connected.
+
+The app allows users to create profiles, add details such as their home country, current city, languages, and interests, and discover other people with similar backgrounds. It also includes features like friend requests, direct messaging, joining communities, posting in community feeds, creating and managing events, and RSVPing to future events. Community creators can act as admins, manage their groups, and create events under the name of their community, making the app feel like a real hub for cultural connection and activity. 
+
+In the long term, I want Rooted to grow beyond a class project and eventually launch it properly. My vision is to collaborate with universities and their cultural societies across the world so that the app can become a central space for international students and other people abroad who want to connect with others from their culture. I also want communities and societies to be able to promote their events directly through the app, and in the future eventually sell tickets there as well, with the app taking a small commission. Those are features I would want to build once the app is more polished, properly marketed, and ready for wider use.
+
+LinkedIn: https://www.linkedin.com/in/louiseverbeke
+YouTube: 
