@@ -34,14 +34,15 @@ Core Features
 Screenshots
 
 
-profile <img width="359" height="780" alt="A989EC70-5F64-4577-95A3-75CA0D7EB750_4_5005_c" src="https://github.com/user-attachments/assets/501c453e-fbf4-4e4d-87e0-47d9e997c74a" />
+Profile Screen <img width="359" height="780" alt="A989EC70-5F64-4577-95A3-75CA0D7EB750_4_5005_c" src="https://github.com/user-attachments/assets/501c453e-fbf4-4e4d-87e0-47d9e997c74a" />
 
+Messages Screen <img width="359" height="780" alt="3E6A3CA4-7E3A-4F99-93B4-1889CB3D8CB9_4_5005_c" src="https://github.com/user-attachments/assets/7483cfdb-0623-4995-aaac-e737c8a70f9c" />
 
-![Home Screen](<img width="359" height="780" alt="B075BE67-ED0F-409D-B7C2-7E87AA814A5D_4_5005_c" src="https://github.com/user-attachments/assets/5db10208-8847-451f-a45a-025c2bdaa1a0" />)
-![Discover Screen](<img width="359" height="780" alt="079A2CEB-8952-4743-977B-CAF2F5ABE707_4_5005_c" src="https://github.com/user-attachments/assets/495b01d7-2812-460a-96b6-7c0d95bcda0e" />)
-![Events Screen](<img width="359" height="780" alt="C5E313E3-7BDF-4C65-B17F-58589A08B93A_4_5005_c" src="https://github.com/user-attachments/assets/3ed48baf-85e5-4dd0-a9b2-6bd8039d556c" />)
-![Messages Screen](<img width="359" height="780" alt="3E6A3CA4-7E3A-4F99-93B4-1889CB3D8CB9_4_5005_c" src="https://github.com/user-attachments/assets/7483cfdb-0623-4995-aaac-e737c8a70f9c" />)
-![Profile Screen](<img width="359" height="780" alt="A989EC70-5F64-4577-95A3-75CA0D7EB750_4_5005_c" src="https://github.com/user-attachments/assets/b9df9d06-40c5-4d94-90f8-f35928dac2d1" />)
+Events Screen <img width="359" height="780" alt="C5E313E3-7BDF-4C65-B17F-58589A08B93A_4_5005_c" src="https://github.com/user-attachments/assets/3ed48baf-85e5-4dd0-a9b2-6bd8039d556c" />
+
+Discover Screen <img width="359" height="780" alt="079A2CEB-8952-4743-977B-CAF2F5ABE707_4_5005_c" src="https://github.com/user-attachments/assets/495b01d7-2812-460a-96b6-7c0d95bcda0e" />
+
+Home Screen <img width="359" height="780" alt="B075BE67-ED0F-409D-B7C2-7E87AA814A5D_4_5005_c" src="https://github.com/user-attachments/assets/5db10208-8847-451f-a45a-025c2bdaa1a0" />
 
 Demonstration Video
 
